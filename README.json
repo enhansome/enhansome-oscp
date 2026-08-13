@@ -33,7 +33,7 @@
             "last_commit": "2020-06-22T14:42:08Z",
             "owner": "rewardone",
             "repo": "OSCPRepo",
-            "stars": 2747
+            "stars": 2748
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 79993
+            "stars": 80018
           }
         },
         {
@@ -141,7 +141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:30:20.366Z",
+    "last_updated": "2026-08-13T19:35:08.537Z",
     "original_repository": "0x4D31/awesome-oscp",
     "original_repository_sha": "d8ff6186214be6f7e82f4a6166c3501ff483b43f",
     "enhanced_repository": "enhansome/enhansome-oscp",
