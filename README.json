@@ -1,0 +1,151 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Windows Exploit Suggester",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-05-11T12:44:55Z",
+            "owner": "strozfriedberg",
+            "repo": "Windows-Exploit-Suggester",
+            "stars": 4232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSCPRepo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-06-22T14:42:08Z",
+            "owner": "rewardone",
+            "repo": "OSCPRepo",
+            "stars": 2747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linux Exploit Suggester",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2014-05-19T06:23:20Z",
+            "owner": "InteliSecureLabs",
+            "repo": "Linux_Exploit_Suggester",
+            "stars": 1814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pentest Compilation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2022-12-22T17:12:38Z",
+            "owner": "adon90",
+            "repo": "pentest_compilation",
+            "stars": 1363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collection of OSCP scripts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-24T12:07:00Z",
+            "owner": "ihack4falafel",
+            "repo": "OSCP",
+            "stars": 959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go-for-OSCP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-05-17T08:48:00Z",
+            "owner": "pythonmaster41",
+            "repo": "Go-For-OSCP",
+            "stars": 139
+          }
+        }
+      ],
+      "title": "Cheatsheets and Scripts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Topics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PayloadsAllTheThings AD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T13:38:47Z",
+            "owner": "swisskyrepo",
+            "repo": "PayloadsAllTheThings",
+            "stars": 79993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Active Directory Exploitation Cheat Sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-27T07:39:44Z",
+            "owner": "S1ckB0y1337",
+            "repo": "Active-Directory-Exploitation-Cheat-Sheet",
+            "stars": 6707
+          }
+        }
+      ],
+      "title": "Active-Directory"
+    },
+    {
+      "description": "To the extent possible under law, Adel \"0x4D31\" Karimi has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:30:20.366Z",
+    "original_repository": "0x4D31/awesome-oscp",
+    "original_repository_sha": "d8ff6186214be6f7e82f4a6166c3501ff483b43f",
+    "enhanced_repository": "enhansome/enhansome-oscp",
+    "enhanced_repository_description": null,
+    "title": "Awesome OSCP with stars"
+  }
+}
