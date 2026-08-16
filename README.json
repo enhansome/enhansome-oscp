@@ -33,7 +33,7 @@
             "last_commit": "2020-06-22T14:42:08Z",
             "owner": "rewardone",
             "repo": "OSCPRepo",
-            "stars": 2748
+            "stars": 2749
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80068
+            "stars": 80097
           }
         },
         {
@@ -128,7 +128,7 @@
             "last_commit": "2026-05-27T07:39:44Z",
             "owner": "S1ckB0y1337",
             "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-            "stars": 6708
+            "stars": 6709
           }
         }
       ],
@@ -141,7 +141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T18:57:10.955Z",
+    "last_updated": "2026-08-16T18:56:42.547Z",
     "original_repository": "0x4D31/awesome-oscp",
     "original_repository_sha": "d8ff6186214be6f7e82f4a6166c3501ff483b43f",
     "enhanced_repository": "enhansome/enhansome-oscp",
