@@ -19,7 +19,7 @@
             "last_commit": "2023-05-11T12:44:55Z",
             "owner": "strozfriedberg",
             "repo": "Windows-Exploit-Suggester",
-            "stars": 4232
+            "stars": 4231
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2014-05-19T06:23:20Z",
             "owner": "InteliSecureLabs",
             "repo": "Linux_Exploit_Suggester",
-            "stars": 1814
+            "stars": 1813
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80114
+            "stars": 80149
           }
         },
         {
@@ -128,7 +128,7 @@
             "last_commit": "2026-05-27T07:39:44Z",
             "owner": "S1ckB0y1337",
             "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-            "stars": 6710
+            "stars": 6709
           }
         }
       ],
@@ -141,7 +141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:08:06.825Z",
+    "last_updated": "2026-08-18T19:07:36.401Z",
     "original_repository": "0x4D31/awesome-oscp",
     "original_repository_sha": "d8ff6186214be6f7e82f4a6166c3501ff483b43f",
     "enhanced_repository": "enhansome/enhansome-oscp",
