@@ -1,148 +1,223 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Windows Exploit Suggester",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 21613236,
+                "language": "Python",
+                "last_commit": "2023-05-11T12:44:55Z",
+                "owner": "strozfriedberg",
+                "repo": "Windows-Exploit-Suggester",
+                "stars": 4231
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSCPRepo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110436596,
+                "language": "C",
+                "last_commit": "2020-06-22T14:42:08Z",
+                "owner": "rewardone",
+                "repo": "OSCPRepo",
+                "stars": 2749
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Linux Exploit Suggester",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12384054,
+                "language": "Perl",
+                "last_commit": "2014-05-19T06:23:20Z",
+                "owner": "InteliSecureLabs",
+                "repo": "Linux_Exploit_Suggester",
+                "stars": 1813
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pentest Compilation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113831461,
+                "language": "XSLT",
+                "last_commit": "2022-12-22T17:12:38Z",
+                "owner": "adon90",
+                "repo": "pentest_compilation",
+                "stars": 1362
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Collection of OSCP scripts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97347544,
+                "language": "Python",
+                "last_commit": "2022-02-24T12:07:00Z",
+                "owner": "ihack4falafel",
+                "repo": "OSCP",
+                "stars": 959
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go-for-OSCP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92379514,
+                "language": "C",
+                "last_commit": "2017-05-17T08:48:00Z",
+                "owner": "pythonmaster41",
+                "repo": "Go-For-OSCP",
+                "stars": 139
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cheatsheets and Scripts"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PayloadsAllTheThings AD",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 71220757,
+                    "language": "Python",
+                    "last_commit": "2026-08-09T13:38:47Z",
+                    "owner": "swisskyrepo",
+                    "repo": "PayloadsAllTheThings",
+                    "stars": 80170
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Active Directory Exploitation Cheat Sheet",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 242721738,
+                    "language": null,
+                    "last_commit": "2026-05-27T07:39:44Z",
+                    "owner": "S1ckB0y1337",
+                    "repo": "Active-Directory-Exploitation-Cheat-Sheet",
+                    "stars": 6709
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Active-Directory"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Topics"
+        }
+      ],
       "title": "Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "Windows Exploit Suggester",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-05-11T12:44:55Z",
-            "owner": "strozfriedberg",
-            "repo": "Windows-Exploit-Suggester",
-            "stars": 4231
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OSCPRepo",
+          "title": "Awesome Penetration Testing",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "C",
-            "last_commit": "2020-06-22T14:42:08Z",
-            "owner": "rewardone",
-            "repo": "OSCPRepo",
-            "stars": 2749
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Linux Exploit Suggester",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2014-05-19T06:23:20Z",
-            "owner": "InteliSecureLabs",
-            "repo": "Linux_Exploit_Suggester",
-            "stars": 1813
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pentest Compilation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "XSLT",
-            "last_commit": "2022-12-22T17:12:38Z",
-            "owner": "adon90",
-            "repo": "pentest_compilation",
-            "stars": 1362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Collection of OSCP scripts",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-24T12:07:00Z",
-            "owner": "ihack4falafel",
-            "repo": "OSCP",
-            "stars": 959
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Go-for-OSCP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2017-05-17T08:48:00Z",
-            "owner": "pythonmaster41",
-            "repo": "Go-For-OSCP",
-            "stars": 139
-          }
-        }
-      ],
-      "title": "Cheatsheets and Scripts"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Topics"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PayloadsAllTheThings AD",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-09T13:38:47Z",
-            "owner": "swisskyrepo",
-            "repo": "PayloadsAllTheThings",
-            "stars": 80149
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Active Directory Exploitation Cheat Sheet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 22585805,
             "language": null,
-            "last_commit": "2026-05-27T07:39:44Z",
-            "owner": "S1ckB0y1337",
-            "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-            "stars": 6709
+            "last_commit": "2026-07-25T12:15:45Z",
+            "owner": "enaqx",
+            "repo": "awesome-pentest",
+            "stars": 26943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSCP Exam Report Template in Markdown",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194554883,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T22:09:49Z",
+            "owner": "noraj",
+            "repo": "OSCP-Exam-Report-Template-Markdown",
+            "stars": 4182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Penetration Testing Study Notes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45382317,
+            "language": "Python",
+            "last_commit": "2025-12-09T07:49:30Z",
+            "owner": "AnasAboreeda",
+            "repo": "Penetration-Testing-Study-Notes",
+            "stars": 696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSCP-Prep-Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93212840,
+            "language": null,
+            "last_commit": "2022-09-05T15:10:32Z",
+            "owner": "burntmybagel",
+            "repo": "OSCP-Prep",
+            "stars": 505
           }
         }
       ],
-      "title": "Active-Directory"
-    },
-    {
-      "description": "To the extent possible under law, Adel \"0x4D31\" Karimi has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
+      "title": "Other OSCP Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:07:36.401Z",
+    "last_updated": "2026-08-19T12:43:49.048Z",
     "original_repository": "0x4D31/awesome-oscp",
+    "original_repository_id": 171967079,
     "original_repository_sha": "d8ff6186214be6f7e82f4a6166c3501ff483b43f",
     "enhanced_repository": "enhansome/enhansome-oscp",
     "enhanced_repository_description": null,
