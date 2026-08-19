@@ -116,7 +116,7 @@
                     "last_commit": "2026-08-09T13:38:47Z",
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80170
+                    "stars": 80182
                   }
                 },
                 {
@@ -131,7 +131,7 @@
                     "last_commit": "2026-05-27T07:39:44Z",
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6709
+                    "stars": 6710
                   }
                 }
               ],
@@ -162,7 +162,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26943
+            "stars": 26946
           }
         },
         {
@@ -215,7 +215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:49.048Z",
+    "last_updated": "2026-08-19T19:03:27.419Z",
     "original_repository": "0x4D31/awesome-oscp",
     "original_repository_id": 171967079,
     "original_repository_sha": "d8ff6186214be6f7e82f4a6166c3501ff483b43f",
