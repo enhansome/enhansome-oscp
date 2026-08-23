@@ -17,7 +17,7 @@
                 "last_commit": "2023-05-11T12:44:55Z",
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4231
+                "stars": 4230
               }
             },
             {
@@ -116,7 +116,7 @@
                     "last_commit": "2026-08-09T13:38:47Z",
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80273
+                    "stars": 80301
                   }
                 },
                 {
@@ -131,7 +131,7 @@
                     "last_commit": "2026-05-27T07:39:44Z",
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6710
+                    "stars": 6712
                   }
                 }
               ],
@@ -162,7 +162,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26981
+            "stars": 26992
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-12T22:09:49Z",
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4182
+            "stars": 4181
           }
         },
         {
@@ -215,7 +215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:58:45.541Z",
+    "last_updated": "2026-08-23T18:58:01.871Z",
     "original_repository": "0x4D31/awesome-oscp",
     "original_repository_id": 171967079,
     "original_repository_sha": "d8ff6186214be6f7e82f4a6166c3501ff483b43f",
