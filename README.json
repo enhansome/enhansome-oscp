@@ -17,7 +17,7 @@
                 "last_commit": "2023-05-11T12:44:55Z",
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4230
+                "stars": 4229
               }
             },
             {
@@ -106,6 +106,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Justin's DoStackBufferOverflowGood",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51684698,
+                    "language": "C",
+                    "last_commit": "2021-04-25T08:57:29Z",
+                    "owner": "justinsteven",
+                    "repo": "dostackbufferoverflowgood",
+                    "stars": 1401
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Buffer Overflow"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "PayloadsAllTheThings AD",
                   "description": null,
                   "children": [],
@@ -116,7 +138,7 @@
                     "last_commit": "2026-08-09T13:38:47Z",
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80301
+                    "stars": 80323
                   }
                 },
                 {
@@ -162,7 +184,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26992
+            "stars": 26995
           }
         },
         {
@@ -177,7 +199,7 @@
             "last_commit": "2026-08-12T22:09:49Z",
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4181
+            "stars": 4182
           }
         },
         {
@@ -215,7 +237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:58:01.871Z",
+    "last_updated": "2026-08-24T14:02:19.651Z",
     "original_repository": "0x4D31/awesome-oscp",
     "original_repository_id": 171967079,
     "original_repository_sha": "d8ff6186214be6f7e82f4a6166c3501ff483b43f",
