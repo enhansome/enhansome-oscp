@@ -138,7 +138,7 @@
                     "last_commit": "2026-08-09T13:38:47Z",
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80332
+                    "stars": 80343
                   }
                 },
                 {
@@ -184,7 +184,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26999
+            "stars": 27001
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-08-12T22:09:49Z",
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4182
+            "stars": 4183
           }
         },
         {
@@ -237,7 +237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:10:20.600Z",
+    "last_updated": "2026-08-25T05:53:38.036Z",
     "original_repository": "0x4D31/awesome-oscp",
     "original_repository_id": 171967079,
     "original_repository_sha": "d8ff6186214be6f7e82f4a6166c3501ff483b43f",
