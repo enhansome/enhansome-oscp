@@ -17,7 +17,7 @@
                 "last_commit": "2023-05-11T12:44:55Z",
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4229
+                "stars": 4230
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2020-06-22T14:42:08Z",
                 "owner": "rewardone",
                 "repo": "OSCPRepo",
-                "stars": 2752
+                "stars": 2753
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2022-02-24T12:07:00Z",
                 "owner": "ihack4falafel",
                 "repo": "OSCP",
-                "stars": 958
+                "stars": 959
               }
             },
             {
@@ -135,10 +135,10 @@
                     "archived": false,
                     "id": 71220757,
                     "language": "Python",
-                    "last_commit": "2026-08-09T13:38:47Z",
+                    "last_commit": "2026-08-27T07:52:21Z",
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80401
+                    "stars": 80420
                   }
                 },
                 {
@@ -153,7 +153,7 @@
                     "last_commit": "2026-05-27T07:39:44Z",
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6715
+                    "stars": 6718
                   }
                 }
               ],
@@ -184,7 +184,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27015
+            "stars": 27022
           }
         },
         {
@@ -237,9 +237,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:37:36.638Z",
-    "original_repository": "0x4D31/awesome-oscp",
-    "original_repository_id": 171967079,
+    "last_updated": "2026-08-27T11:54:23.317Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 171967079,
+      "language": null,
+      "last_commit": "2024-04-28T13:30:09Z",
+      "owner": "0x4D31",
+      "repo": "awesome-oscp",
+      "stars": 3467
+    },
     "original_repository_sha": "d8ff6186214be6f7e82f4a6166c3501ff483b43f",
     "enhanced_repository": "enhansome/enhansome-oscp",
     "enhanced_repository_description": null,
