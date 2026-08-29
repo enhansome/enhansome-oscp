@@ -1,6 +1,6 @@
 # Awesome OSCP with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,567 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,867 | 🐛 105 | 📅 2026-08-21
 
 > A curated list of awesome OSCP resources
 
@@ -53,7 +53,7 @@
 
 #### Buffer Overflow
 
-* [Justin's DoStackBufferOverflowGood](https://github.com/justinsteven/dostackbufferoverflowgood) ⭐ 1,401 | 🐛 1 | 🌐 C | 📅 2021-04-25
+* [Justin's DoStackBufferOverflowGood](https://github.com/justinsteven/dostackbufferoverflowgood) ⭐ 1,399 | 🐛 1 | 🌐 C | 📅 2021-04-25
 * [Corelan's Exploit writing tutorial part 1 : Stack Based Overflows](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
 * [Writing Exploits for Win32 Systems from Scratch](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/june/writing-exploits-for-win32-systems-from-scratch/)
 * [32-Bit Windows Buffer Overflows Made Easy](https://veteransec.com/2018/09/10/32-bit-windows-buffer-overflows-made-easy/)
@@ -71,8 +71,8 @@
 
 #### Active-Directory
 
-* [PayloadsAllTheThings AD](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md) ⭐ 80,439 | 🐛 35 | 🌐 Python | 📅 2026-08-27
-* [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) ⭐ 6,718 | 🐛 1 | 📅 2026-05-27
+* [PayloadsAllTheThings AD](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md) ⭐ 80,467 | 🐛 35 | 🌐 Python | 📅 2026-08-27
+* [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) ⭐ 6,720 | 🐛 1 | 📅 2026-05-27
 * [Active Directory Methodology](https://book.hacktricks.xyz/windows/active-directory-methodology)
 * [Attacking Active Directory: 0 to 0.9](https://zer1t0.gitlab.io/posts/attacking_ad/)
 * [PowerView-3.0 tips and tricks](https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993#file-powerview-3-0-tricks-ps1)
@@ -119,8 +119,8 @@
 
 # Other OSCP Resources
 
-* [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) ⭐ 27,038 | 🐛 104 | 📅 2026-07-25
-* [OSCP Exam Report Template in Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) ⭐ 4,185 | 🐛 2 | 🌐 Ruby | 📅 2026-08-12
+* [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) ⭐ 27,049 | 🐛 105 | 📅 2026-07-25
+* [OSCP Exam Report Template in Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) ⭐ 4,186 | 🐛 2 | 🌐 Ruby | 📅 2026-08-12
 * [Penetration Testing Study Notes](https://github.com/AnasAboureada/Penetration-Testing-Study-Notes) ⭐ 697 | 🐛 5 | 🌐 Python | 📅 2025-12-09
 * [OSCP-Prep-Resources](https://github.com/burntmybagel/OSCP-Prep) ⭐ 505 | 🐛 3 | 📅 2022-09-05
 * [PWK Syllabus](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf)
@@ -147,4 +147,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

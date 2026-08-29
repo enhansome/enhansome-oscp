@@ -18,7 +18,8 @@
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
                 "stars": 4230
-              }
+              },
+              "first_seen": "2026-08-29T01:50:18.076Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "rewardone",
                 "repo": "OSCPRepo",
                 "stars": 2753
-              }
+              },
+              "first_seen": "2026-08-29T01:50:18.076Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "InteliSecureLabs",
                 "repo": "Linux_Exploit_Suggester",
                 "stars": 1812
-              }
+              },
+              "first_seen": "2026-08-29T01:50:18.076Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "adon90",
                 "repo": "pentest_compilation",
                 "stars": 1362
-              }
+              },
+              "first_seen": "2026-08-29T01:50:18.076Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "ihack4falafel",
                 "repo": "OSCP",
                 "stars": 959
-              }
+              },
+              "first_seen": "2026-08-29T01:50:18.076Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "pythonmaster41",
                 "repo": "Go-For-OSCP",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-29T01:50:18.076Z"
             }
           ],
           "description": null,
@@ -116,8 +122,9 @@
                     "last_commit": "2021-04-25T08:57:29Z",
                     "owner": "justinsteven",
                     "repo": "dostackbufferoverflowgood",
-                    "stars": 1401
-                  }
+                    "stars": 1399
+                  },
+                  "first_seen": "2026-08-29T01:50:18.076Z"
                 }
               ],
               "description": null,
@@ -138,8 +145,9 @@
                     "last_commit": "2026-08-27T07:52:21Z",
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80439
-                  }
+                    "stars": 80467
+                  },
+                  "first_seen": "2026-08-29T01:50:18.076Z"
                 },
                 {
                   "node_type": "item",
@@ -153,8 +161,9 @@
                     "last_commit": "2026-05-27T07:39:44Z",
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6718
-                  }
+                    "stars": 6720
+                  },
+                  "first_seen": "2026-08-29T01:50:18.076Z"
                 }
               ],
               "description": null,
@@ -184,8 +193,9 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27038
-          }
+            "stars": 27049
+          },
+          "first_seen": "2026-08-29T01:50:18.076Z"
         },
         {
           "node_type": "item",
@@ -199,8 +209,9 @@
             "last_commit": "2026-08-12T22:09:49Z",
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4185
-          }
+            "stars": 4186
+          },
+          "first_seen": "2026-08-29T01:50:18.076Z"
         },
         {
           "node_type": "item",
@@ -215,7 +226,8 @@
             "owner": "AnasAboreeda",
             "repo": "Penetration-Testing-Study-Notes",
             "stars": 697
-          }
+          },
+          "first_seen": "2026-08-29T01:50:18.076Z"
         },
         {
           "node_type": "item",
@@ -230,14 +242,15 @@
             "owner": "burntmybagel",
             "repo": "OSCP-Prep",
             "stars": 505
-          }
+          },
+          "first_seen": "2026-08-29T01:50:18.076Z"
         }
       ],
       "title": "Other OSCP Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:16:31.096Z",
+    "last_updated": "2026-08-29T01:50:18.076Z",
     "original_repository_info": {
       "archived": false,
       "id": 171967079,
