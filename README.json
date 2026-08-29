@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.",
+                "homepage": null,
                 "id": 21613236,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-11T12:44:55Z",
+                "open_issues": 33,
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4230
+                "stars": 4230,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
             },
@@ -28,12 +33,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and reading material in 'BookmarkList' CherryTree. Reconscan Py2 and Py3. Custom ISO building.",
+                "homepage": null,
                 "id": 110436596,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-06-22T14:42:08Z",
+                "open_issues": 1,
                 "owner": "rewardone",
                 "repo": "OSCPRepo",
-                "stars": 2753
+                "stars": 2753,
+                "topics": [
+                  "oscp",
+                  "penetration-testing",
+                  "pentest",
+                  "reconscan"
+                ]
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
             },
@@ -44,12 +59,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linux Exploit Suggester; based on operating system release number ",
+                "homepage": null,
                 "id": 12384054,
                 "language": "Perl",
+                "license": "GPL-2.0",
                 "last_commit": "2014-05-19T06:23:20Z",
+                "open_issues": 4,
                 "owner": "InteliSecureLabs",
                 "repo": "Linux_Exploit_Suggester",
-                "stars": 1812
+                "stars": 1812,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
             },
@@ -60,12 +80,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compilation of commands, tips and scripts that helped me throughout Vulnhub, Hackthebox, OSCP and real scenarios",
+                "homepage": null,
                 "id": 113831461,
                 "language": "XSLT",
+                "license": null,
                 "last_commit": "2022-12-22T17:12:38Z",
+                "open_issues": 3,
                 "owner": "adon90",
                 "repo": "pentest_compilation",
-                "stars": 1362
+                "stars": 1362,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
             },
@@ -76,12 +101,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of things made during my OSCP journey",
+                "homepage": null,
                 "id": 97347544,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-02-24T12:07:00Z",
+                "open_issues": 2,
                 "owner": "ihack4falafel",
                 "repo": "OSCP",
-                "stars": 959
+                "stars": 959,
+                "topics": [
+                  "bash",
+                  "batch-script",
+                  "buffer-overflow",
+                  "c",
+                  "exploit",
+                  "oscp",
+                  "oscp-journey",
+                  "privesc",
+                  "privilege-escalation",
+                  "privilege-escalation-exploits",
+                  "python",
+                  "scripts",
+                  "vbscript"
+                ]
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
             },
@@ -92,12 +136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 92379514,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2017-05-17T08:48:00Z",
+                "open_issues": 0,
                 "owner": "pythonmaster41",
                 "repo": "Go-For-OSCP",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
             }
@@ -117,12 +166,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 51684698,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2021-04-25T08:57:29Z",
+                    "open_issues": 1,
                     "owner": "justinsteven",
                     "repo": "dostackbufferoverflowgood",
-                    "stars": 1399
+                    "stars": 1399,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:50:18.076Z"
                 }
@@ -140,12 +194,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+                    "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
                     "id": 71220757,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T07:52:21Z",
+                    "open_issues": 35,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80467
+                    "stars": 80467,
+                    "topics": [
+                      "bounty",
+                      "bugbounty",
+                      "bypass",
+                      "cheatsheet",
+                      "enumeration",
+                      "hacking",
+                      "hacktoberfest",
+                      "methodology",
+                      "payload",
+                      "payloads",
+                      "penetration-testing",
+                      "pentest",
+                      "privilege-escalation",
+                      "redteam",
+                      "security",
+                      "vulnerability",
+                      "web-application"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:50:18.076Z"
                 },
@@ -156,12 +233,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.",
+                    "homepage": null,
                     "id": 242721738,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-05-27T07:39:44Z",
+                    "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6720
+                    "stars": 6720,
+                    "topics": [
+                      "active-directory",
+                      "active-directory-cheatsheet",
+                      "active-directory-exploitation",
+                      "activedirectory",
+                      "attack",
+                      "cheat",
+                      "cheat-sheet",
+                      "cheatsheet",
+                      "enumeration",
+                      "exploitation",
+                      "hacking",
+                      "hacking-cheasheet",
+                      "hacking-tool",
+                      "hacking-tools",
+                      "penetration-testing",
+                      "pentesting",
+                      "privilege-escalation",
+                      "security",
+                      "windows",
+                      "windows-active-directory"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:50:18.076Z"
                 }
@@ -188,12 +291,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome penetration testing resources, tools and other shiny things",
+            "homepage": null,
             "id": 22585805,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
+            "open_issues": 105,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27049
+            "stars": 27049,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-29T01:50:18.076Z"
         },
@@ -204,12 +315,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report",
+            "homepage": "https://noraj.github.io/OSCP-Exam-Report-Template-Markdown/",
             "id": 194554883,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-12T22:09:49Z",
+            "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4186
+            "stars": 4186,
+            "topics": [
+              "exam",
+              "exam-report",
+              "latex",
+              "markdown",
+              "markdown-template",
+              "markdown-to-pdf",
+              "offensive-security",
+              "osce",
+              "oscp",
+              "oscp-prep",
+              "osee",
+              "osert",
+              "oswe",
+              "oswp",
+              "pandoc",
+              "report",
+              "reporting-tool"
+            ]
           },
           "first_seen": "2026-08-29T01:50:18.076Z"
         },
@@ -220,12 +354,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Penetration Testing notes, resources and scripts",
+            "homepage": null,
             "id": 45382317,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-09T07:49:30Z",
+            "open_issues": 5,
             "owner": "AnasAboreeda",
             "repo": "Penetration-Testing-Study-Notes",
-            "stars": 697
+            "stars": 697,
+            "topics": [
+              "cyber-security",
+              "hacking",
+              "oscp",
+              "penetration-testing",
+              "pentest",
+              "pentesting",
+              "security-automation"
+            ]
           },
           "first_seen": "2026-08-29T01:50:18.076Z"
         },
@@ -236,12 +383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of the resources I use as I get ready for the exam",
+            "homepage": null,
             "id": 93212840,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-05T15:10:32Z",
+            "open_issues": 3,
             "owner": "burntmybagel",
             "repo": "OSCP-Prep",
-            "stars": 505
+            "stars": 505,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:18.076Z"
         }
@@ -250,15 +402,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:50:18.076Z",
+    "last_updated": "2026-08-29T04:24:23.256Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome OSCP resources",
+      "homepage": null,
       "id": 171967079,
       "language": null,
+      "license": null,
       "last_commit": "2024-04-28T13:30:09Z",
+      "open_issues": 7,
       "owner": "0x4D31",
       "repo": "awesome-oscp",
-      "stars": 3466
+      "stars": 3466,
+      "topics": [
+        "awesome-list",
+        "offensive-security",
+        "oscp",
+        "oscp-prep",
+        "oscp-tools",
+        "penetration-testing",
+        "pentest",
+        "pentesting"
+      ]
     },
     "original_repository_sha": "d8ff6186214be6f7e82f4a6166c3501ff483b43f",
     "enhanced_repository": "enhansome/enhansome-oscp",
