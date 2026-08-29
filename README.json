@@ -203,7 +203,7 @@
                     "open_issues": 35,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80467,
+                    "stars": 80482,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -297,10 +297,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 105,
+            "open_issues": 106,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27049,
+            "stars": 27054,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4186,
+            "stars": 4187,
             "topics": [
               "exam",
               "exam-report",
@@ -392,7 +392,7 @@
             "open_issues": 3,
             "owner": "burntmybagel",
             "repo": "OSCP-Prep",
-            "stars": 505,
+            "stars": 504,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:18.076Z"
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:23.256Z",
+    "last_updated": "2026-08-29T21:05:08.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
@@ -414,7 +414,7 @@
       "open_issues": 7,
       "owner": "0x4D31",
       "repo": "awesome-oscp",
-      "stars": 3466,
+      "stars": 3465,
       "topics": [
         "awesome-list",
         "offensive-security",
