@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "rewardone",
                 "repo": "OSCPRepo",
-                "stars": 2753,
+                "stars": 2754,
                 "topics": [
                   "oscp",
                   "penetration-testing",
@@ -203,7 +203,7 @@
                     "open_issues": 35,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80508,
+                    "stars": 80537,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -242,7 +242,7 @@
                     "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6720,
+                    "stars": 6722,
                     "topics": [
                       "active-directory",
                       "active-directory-cheatsheet",
@@ -300,7 +300,7 @@
             "open_issues": 107,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27066,
+            "stars": 27075,
             "topics": [
               "awesome",
               "awesome-list"
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:24:06.317Z",
+    "last_updated": "2026-08-31T22:58:48.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
@@ -414,7 +414,7 @@
       "open_issues": 7,
       "owner": "0x4D31",
       "repo": "awesome-oscp",
-      "stars": 3466,
+      "stars": 3467,
       "topics": [
         "awesome-list",
         "offensive-security",
