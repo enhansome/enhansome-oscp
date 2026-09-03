@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4230,
+                "stars": 4231,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "rewardone",
                 "repo": "OSCPRepo",
-                "stars": 2754,
+                "stars": 2753,
                 "topics": [
                   "oscp",
                   "penetration-testing",
@@ -203,7 +203,7 @@
                     "open_issues": 35,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80588,
+                    "stars": 80606,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -297,10 +297,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 109,
+            "open_issues": 110,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27100,
+            "stars": 27107,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4192,
+            "stars": 4191,
             "topics": [
               "exam",
               "exam-report",
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:12:22.568Z",
+    "last_updated": "2026-09-03T21:14:27.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
@@ -414,7 +414,7 @@
       "open_issues": 7,
       "owner": "0x4D31",
       "repo": "awesome-oscp",
-      "stars": 3471,
+      "stars": 3470,
       "topics": [
         "awesome-list",
         "offensive-security",
