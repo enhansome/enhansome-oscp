@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4230,
+                "stars": 4231,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -89,7 +89,7 @@
                 "open_issues": 3,
                 "owner": "adon90",
                 "repo": "pentest_compilation",
-                "stars": 1362,
+                "stars": 1363,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -203,7 +203,7 @@
                     "open_issues": 35,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80705,
+                    "stars": 80727,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -300,7 +300,7 @@
             "open_issues": 116,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27143,
+            "stars": 27148,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4196,
+            "stars": 4197,
             "topics": [
               "exam",
               "exam-report",
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:42:49.847Z",
+    "last_updated": "2026-09-08T21:19:49.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
