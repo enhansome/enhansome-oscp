@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4231,
+                "stars": 4230,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -203,7 +203,7 @@
                     "open_issues": 36,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80981,
+                    "stars": 81000,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -242,7 +242,7 @@
                     "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6742,
+                    "stars": 6745,
                     "topics": [
                       "active-directory",
                       "active-directory-cheatsheet",
@@ -300,7 +300,7 @@
             "open_issues": 120,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27236,
+            "stars": 27249,
             "topics": [
               "awesome",
               "awesome-list"
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T20:55:14.559Z",
+    "last_updated": "2026-09-20T21:00:16.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
