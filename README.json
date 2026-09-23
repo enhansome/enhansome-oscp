@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "rewardone",
                 "repo": "OSCPRepo",
-                "stars": 2754,
+                "stars": 2753,
                 "topics": [
                   "oscp",
                   "penetration-testing",
@@ -89,7 +89,7 @@
                 "open_issues": 3,
                 "owner": "adon90",
                 "repo": "pentest_compilation",
-                "stars": 1363,
+                "stars": 1361,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "ihack4falafel",
                 "repo": "OSCP",
-                "stars": 958,
+                "stars": 957,
                 "topics": [
                   "bash",
                   "batch-script",
@@ -203,7 +203,7 @@
                     "open_issues": 36,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 81115,
+                    "stars": 81150,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -291,7 +291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A collection of awesome penetration testing resources, tools and other shiny things",
+            "description": "A collection of awesome penetration testing resources and tools",
             "homepage": null,
             "id": 22585805,
             "language": null,
@@ -300,7 +300,7 @@
             "open_issues": 122,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27262,
+            "stars": 27268,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4201,
+            "stars": 4200,
             "topics": [
               "exam",
               "exam-report",
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T21:34:48.335Z",
+    "last_updated": "2026-09-23T21:41:00.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
@@ -414,7 +414,7 @@
       "open_issues": 7,
       "owner": "0x4D31",
       "repo": "awesome-oscp",
-      "stars": 3492,
+      "stars": 3491,
       "topics": [
         "awesome-list",
         "offensive-security",
