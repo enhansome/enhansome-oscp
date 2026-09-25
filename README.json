@@ -203,7 +203,7 @@
                     "open_issues": 36,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 81178,
+                    "stars": 81207,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -242,7 +242,7 @@
                     "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6749,
+                    "stars": 6751,
                     "topics": [
                       "active-directory",
                       "active-directory-cheatsheet",
@@ -297,10 +297,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 125,
+            "open_issues": 126,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27274,
+            "stars": 27284,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4198,
+            "stars": 4199,
             "topics": [
               "exam",
               "exam-report",
@@ -363,7 +363,7 @@
             "open_issues": 5,
             "owner": "AnasAboreeda",
             "repo": "Penetration-Testing-Study-Notes",
-            "stars": 698,
+            "stars": 699,
             "topics": [
               "cyber-security",
               "hacking",
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:42:42.594Z",
+    "last_updated": "2026-09-25T21:45:28.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
@@ -414,7 +414,7 @@
       "open_issues": 7,
       "owner": "0x4D31",
       "repo": "awesome-oscp",
-      "stars": 3492,
+      "stars": 3494,
       "topics": [
         "awesome-list",
         "offensive-security",
