@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "rewardone",
                 "repo": "OSCPRepo",
-                "stars": 2753,
+                "stars": 2752,
                 "topics": [
                   "oscp",
                   "penetration-testing",
@@ -203,7 +203,7 @@
                     "open_issues": 36,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 81207,
+                    "stars": 81230,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -297,10 +297,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 126,
+            "open_issues": 128,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27284,
+            "stars": 27288,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4199,
+            "stars": 4200,
             "topics": [
               "exam",
               "exam-report",
@@ -363,7 +363,7 @@
             "open_issues": 5,
             "owner": "AnasAboreeda",
             "repo": "Penetration-Testing-Study-Notes",
-            "stars": 699,
+            "stars": 700,
             "topics": [
               "cyber-security",
               "hacking",
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T21:45:28.393Z",
+    "last_updated": "2026-09-26T21:24:03.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
@@ -414,7 +414,7 @@
       "open_issues": 7,
       "owner": "0x4D31",
       "repo": "awesome-oscp",
-      "stars": 3494,
+      "stars": 3495,
       "topics": [
         "awesome-list",
         "offensive-security",
