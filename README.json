@@ -175,7 +175,7 @@
                     "open_issues": 1,
                     "owner": "justinsteven",
                     "repo": "dostackbufferoverflowgood",
-                    "stars": 1396,
+                    "stars": 1395,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:50:18.076Z"
@@ -203,7 +203,7 @@
                     "open_issues": 36,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 81230,
+                    "stars": 81267,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -242,7 +242,7 @@
                     "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6751,
+                    "stars": 6753,
                     "topics": [
                       "active-directory",
                       "active-directory-cheatsheet",
@@ -297,10 +297,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 128,
+            "open_issues": 129,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27288,
+            "stars": 27298,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4200,
+            "stars": 4202,
             "topics": [
               "exam",
               "exam-report",
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:24:03.496Z",
+    "last_updated": "2026-09-27T21:31:21.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
@@ -414,7 +414,7 @@
       "open_issues": 7,
       "owner": "0x4D31",
       "repo": "awesome-oscp",
-      "stars": 3495,
+      "stars": 3496,
       "topics": [
         "awesome-list",
         "offensive-security",
