@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "rewardone",
                 "repo": "OSCPRepo",
-                "stars": 2753,
+                "stars": 2754,
                 "topics": [
                   "oscp",
                   "penetration-testing",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "ihack4falafel",
                 "repo": "OSCP",
-                "stars": 957,
+                "stars": 956,
                 "topics": [
                   "bash",
                   "batch-script",
@@ -203,7 +203,7 @@
                     "open_issues": 36,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 81302,
+                    "stars": 81333,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -242,7 +242,7 @@
                     "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6754,
+                    "stars": 6757,
                     "topics": [
                       "active-directory",
                       "active-directory-cheatsheet",
@@ -300,7 +300,7 @@
             "open_issues": 131,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27304,
+            "stars": 27309,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4202,
+            "stars": 4199,
             "topics": [
               "exam",
               "exam-report",
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:26:35.382Z",
+    "last_updated": "2026-09-29T22:31:20.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
