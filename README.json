@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Windows Exploit Suggester",
-              "description": null,
+              "description": "strozfriedberg/Windows-Exploit-Suggester",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "OSCPRepo",
-              "description": null,
+              "description": "rewardone/OSCPRepo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -55,7 +55,7 @@
             {
               "node_type": "item",
               "title": "Linux Exploit Suggester",
-              "description": null,
+              "description": "InteliSecureLabs/Linux_Exploit_Suggester",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -76,7 +76,7 @@
             {
               "node_type": "item",
               "title": "Pentest Compilation",
-              "description": null,
+              "description": "adon90/pentest_compilation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -97,7 +97,7 @@
             {
               "node_type": "item",
               "title": "Collection of OSCP scripts",
-              "description": null,
+              "description": "ihack4falafel/OSCP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -132,7 +132,7 @@
             {
               "node_type": "item",
               "title": "Go-for-OSCP",
-              "description": null,
+              "description": "pythonmaster41/Go-For-OSCP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -162,7 +162,7 @@
                 {
                   "node_type": "item",
                   "title": "Justin's DoStackBufferOverflowGood",
-                  "description": null,
+                  "description": "justinsteven/dostackbufferoverflowgood",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -190,7 +190,7 @@
                 {
                   "node_type": "item",
                   "title": "PayloadsAllTheThings AD",
-                  "description": null,
+                  "description": "swisskyrepo/PayloadsAllTheThings",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -203,7 +203,7 @@
                     "open_issues": 36,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 81420,
+                    "stars": 81426,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -229,7 +229,7 @@
                 {
                   "node_type": "item",
                   "title": "Active Directory Exploitation Cheat Sheet",
-                  "description": null,
+                  "description": "S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -242,7 +242,7 @@
                     "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6760,
+                    "stars": 6761,
                     "topics": [
                       "active-directory",
                       "active-directory-cheatsheet",
@@ -287,7 +287,7 @@
         {
           "node_type": "item",
           "title": "Awesome Penetration Testing",
-          "description": null,
+          "description": "enaqx/awesome-pentest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -300,7 +300,7 @@
             "open_issues": 133,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27328,
+            "stars": 27331,
             "topics": [
               "awesome",
               "awesome-list"
@@ -311,7 +311,7 @@
         {
           "node_type": "item",
           "title": "OSCP Exam Report Template in Markdown",
-          "description": null,
+          "description": "noraj/OSCP-Exam-Report-Template-Markdown",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4201,
+            "stars": 4202,
             "topics": [
               "exam",
               "exam-report",
@@ -350,7 +350,7 @@
         {
           "node_type": "item",
           "title": "Penetration Testing Study Notes",
-          "description": null,
+          "description": "AnasAboreeda/Penetration-Testing-Study-Notes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -379,7 +379,7 @@
         {
           "node_type": "item",
           "title": "OSCP-Prep-Resources",
-          "description": null,
+          "description": "burntmybagel/OSCP-Prep",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:27:46.375Z",
+    "last_updated": "2026-10-03T05:03:30.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
