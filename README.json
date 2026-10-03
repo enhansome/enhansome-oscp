@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "rewardone",
                 "repo": "OSCPRepo",
-                "stars": 2752,
+                "stars": 2753,
                 "topics": [
                   "oscp",
                   "penetration-testing",
@@ -203,7 +203,7 @@
                     "open_issues": 36,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 81426,
+                    "stars": 81440,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -297,10 +297,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 133,
+            "open_issues": 134,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27331,
+            "stars": 27334,
             "topics": [
               "awesome",
               "awesome-list"
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:03:30.330Z",
+    "last_updated": "2026-10-03T21:39:13.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
