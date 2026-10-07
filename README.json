@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4228,
+                "stars": 4227,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -68,7 +68,7 @@
                 "open_issues": 4,
                 "owner": "InteliSecureLabs",
                 "repo": "Linux_Exploit_Suggester",
-                "stars": 1813,
+                "stars": 1812,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -203,7 +203,7 @@
                     "open_issues": 36,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 81512,
+                    "stars": 81536,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -242,7 +242,7 @@
                     "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6760,
+                    "stars": 6761,
                     "topics": [
                       "active-directory",
                       "active-directory-cheatsheet",
@@ -300,7 +300,7 @@
             "open_issues": 135,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27354,
+            "stars": 27364,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4204,
+            "stars": 4206,
             "topics": [
               "exam",
               "exam-report",
@@ -392,7 +392,7 @@
             "open_issues": 3,
             "owner": "burntmybagel",
             "repo": "OSCP-Prep",
-            "stars": 504,
+            "stars": 503,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:18.076Z"
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:44:34.952Z",
+    "last_updated": "2026-10-07T23:15:06.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
