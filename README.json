@@ -200,10 +200,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-27T07:52:21Z",
-                    "open_issues": 37,
+                    "open_issues": 38,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 81735,
+                    "stars": 81766,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -242,7 +242,7 @@
                     "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6774,
+                    "stars": 6772,
                     "topics": [
                       "active-directory",
                       "active-directory-cheatsheet",
@@ -297,10 +297,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 138,
+            "open_issues": 140,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27426,
+            "stars": 27438,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4214,
+            "stars": 4216,
             "topics": [
               "exam",
               "exam-report",
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:52:42.132Z",
+    "last_updated": "2026-10-15T21:38:52.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
@@ -414,7 +414,7 @@
       "open_issues": 7,
       "owner": "0x4D31",
       "repo": "awesome-oscp",
-      "stars": 3509,
+      "stars": 3510,
       "topics": [
         "awesome-list",
         "offensive-security",
