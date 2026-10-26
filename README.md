@@ -1,6 +1,6 @@
 # Awesome OSCP with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,604 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 525,151 | 🐛 105 | 📅 2026-09-02
 
 > A curated list of awesome OSCP resources
 
@@ -37,7 +37,7 @@
 ### Cheatsheets and Scripts
 
 * [Windows Exploit Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester) ⚠️ Archived
-* [OSCPRepo](https://github.com/rewardone/OSCPRepo) ⭐ 2,754 | 🐛 1 | 🌐 C | 📅 2020-06-22
+* [OSCPRepo](https://github.com/rewardone/OSCPRepo) ⭐ 2,755 | 🐛 1 | 🌐 C | 📅 2020-06-22
 * [Linux Exploit Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) ⭐ 1,813 | 🐛 4 | 🌐 Perl | 📅 2014-05-19
 * [Pentest Compilation](https://github.com/adon90/pentest_compilation) ⭐ 1,363 | 🐛 3 | 🌐 XSLT | 📅 2022-12-22
 * [Collection of OSCP scripts](https://github.com/ihack4falafel/OSCP) ⭐ 956 | 🐛 2 | 🌐 Python | 📅 2022-02-24
@@ -71,7 +71,7 @@
 
 #### Active-Directory
 
-* [PayloadsAllTheThings AD](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md) ⭐ 82,062 | 🐛 37 | 🌐 Python | 📅 2026-08-27
+* [PayloadsAllTheThings AD](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md) ⭐ 82,102 | 🐛 37 | 🌐 Python | 📅 2026-08-27
 * [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) ⭐ 6,784 | 🐛 1 | 📅 2026-05-27
 * [Active Directory Methodology](https://book.hacktricks.xyz/windows/active-directory-methodology)
 * [Attacking Active Directory: 0 to 0.9](https://zer1t0.gitlab.io/posts/attacking_ad/)
@@ -119,10 +119,10 @@
 
 # Other OSCP Resources
 
-* [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) ⭐ 27,547 | 🐛 146 | 📅 2026-07-25
-* [OSCP Exam Report Template in Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) ⭐ 4,218 | 🐛 2 | 🌐 Ruby | 📅 2026-08-12
+* [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) ⭐ 27,559 | 🐛 145 | 📅 2026-07-25
+* [OSCP Exam Report Template in Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) ⭐ 4,217 | 🐛 2 | 🌐 Ruby | 📅 2026-08-12
 * [Penetration Testing Study Notes](https://github.com/AnasAboureada/Penetration-Testing-Study-Notes) ⭐ 699 | 🐛 5 | 🌐 Python | 📅 2025-12-09
-* [OSCP-Prep-Resources](https://github.com/burntmybagel/OSCP-Prep) ⭐ 504 | 🐛 3 | 📅 2022-09-05
+* [OSCP-Prep-Resources](https://github.com/burntmybagel/OSCP-Prep) ⭐ 503 | 🐛 3 | 📅 2022-09-05
 * [PWK Syllabus](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf)
 * [Offensive Security Bookmarks](https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/)
 * [The how to get the OSCP certification wiki](https://www.peerlyst.com/posts/the-how-to-get-the-oscp-certification-wiki-peerlyst)
@@ -147,4 +147,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
