@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4226,
+                "stars": 4224,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -199,11 +199,11 @@
                     "id": 71220757,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-27T07:52:21Z",
-                    "open_issues": 37,
+                    "last_commit": "2026-10-30T15:58:03Z",
+                    "open_issues": 38,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 82207,
+                    "stars": 82249,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -242,7 +242,7 @@
                     "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6787,
+                    "stars": 6790,
                     "topics": [
                       "active-directory",
                       "active-directory-cheatsheet",
@@ -297,10 +297,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 148,
+            "open_issues": 150,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27581,
+            "stars": 27590,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4217,
+            "stars": 4218,
             "topics": [
               "exam",
               "exam-report",
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T22:54:50.280Z",
+    "last_updated": "2026-10-30T22:35:01.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
