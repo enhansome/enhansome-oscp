@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4221,
+                "stars": 4223,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "rewardone",
                 "repo": "OSCPRepo",
-                "stars": 2753,
+                "stars": 2754,
                 "topics": [
                   "oscp",
                   "penetration-testing",
@@ -203,7 +203,7 @@
                     "open_issues": 41,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 82501,
+                    "stars": 82540,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -242,7 +242,7 @@
                     "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6798,
+                    "stars": 6797,
                     "topics": [
                       "active-directory",
                       "active-directory-cheatsheet",
@@ -297,10 +297,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 154,
+            "open_issues": 156,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27670,
+            "stars": 27679,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4221,
+            "stars": 4222,
             "topics": [
               "exam",
               "exam-report",
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:21:20.468Z",
+    "last_updated": "2026-11-10T01:43:17.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
@@ -414,7 +414,7 @@
       "open_issues": 6,
       "owner": "0x4D31",
       "repo": "awesome-oscp",
-      "stars": 3522,
+      "stars": 3523,
       "topics": [
         "awesome-list",
         "offensive-security",
