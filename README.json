@@ -175,7 +175,7 @@
                     "open_issues": 1,
                     "owner": "justinsteven",
                     "repo": "dostackbufferoverflowgood",
-                    "stars": 1395,
+                    "stars": 1394,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:50:18.076Z"
@@ -200,10 +200,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-30T15:58:03Z",
-                    "open_issues": 41,
+                    "open_issues": 42,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 82660,
+                    "stars": 82680,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -242,7 +242,7 @@
                     "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6802,
+                    "stars": 6803,
                     "topics": [
                       "active-directory",
                       "active-directory-cheatsheet",
@@ -297,10 +297,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 168,
+            "open_issues": 169,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27723,
+            "stars": 27727,
             "topics": [
               "awesome",
               "awesome-list"
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T23:46:41.616Z",
+    "last_updated": "2026-11-14T22:40:19.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
