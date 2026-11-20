@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4222,
+                "stars": 4221,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "rewardone",
                 "repo": "OSCPRepo",
-                "stars": 2756,
+                "stars": 2754,
                 "topics": [
                   "oscp",
                   "penetration-testing",
@@ -68,7 +68,7 @@
                 "open_issues": 4,
                 "owner": "InteliSecureLabs",
                 "repo": "Linux_Exploit_Suggester",
-                "stars": 1814,
+                "stars": 1813,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -89,7 +89,7 @@
                 "open_issues": 3,
                 "owner": "adon90",
                 "repo": "pentest_compilation",
-                "stars": 1362,
+                "stars": 1360,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "ihack4falafel",
                 "repo": "OSCP",
-                "stars": 960,
+                "stars": 959,
                 "topics": [
                   "bash",
                   "batch-script",
@@ -200,10 +200,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-30T15:58:03Z",
-                    "open_issues": 42,
+                    "open_issues": 39,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 82763,
+                    "stars": 82805,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -242,7 +242,7 @@
                     "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6814,
+                    "stars": 6815,
                     "topics": [
                       "active-directory",
                       "active-directory-cheatsheet",
@@ -297,10 +297,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 171,
+            "open_issues": 173,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27783,
+            "stars": 27796,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4229,
+            "stars": 4227,
             "topics": [
               "exam",
               "exam-report",
@@ -363,7 +363,7 @@
             "open_issues": 5,
             "owner": "AnasAboreeda",
             "repo": "Penetration-Testing-Study-Notes",
-            "stars": 701,
+            "stars": 700,
             "topics": [
               "cyber-security",
               "hacking",
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:40:12.793Z",
+    "last_updated": "2026-11-20T00:48:57.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
@@ -414,7 +414,7 @@
       "open_issues": 6,
       "owner": "0x4D31",
       "repo": "awesome-oscp",
-      "stars": 3528,
+      "stars": 3526,
       "topics": [
         "awesome-list",
         "offensive-security",
