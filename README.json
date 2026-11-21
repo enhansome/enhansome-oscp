@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4221,
+                "stars": 4222,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -68,7 +68,7 @@
                 "open_issues": 4,
                 "owner": "InteliSecureLabs",
                 "repo": "Linux_Exploit_Suggester",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:50:18.076Z"
@@ -203,7 +203,7 @@
                     "open_issues": 39,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 82805,
+                    "stars": 82825,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -297,10 +297,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 173,
+            "open_issues": 174,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27796,
+            "stars": 27808,
             "topics": [
               "awesome",
               "awesome-list"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "noraj",
             "repo": "OSCP-Exam-Report-Template-Markdown",
-            "stars": 4227,
+            "stars": 4229,
             "topics": [
               "exam",
               "exam-report",
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:48:57.462Z",
+    "last_updated": "2026-11-21T00:06:41.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
@@ -414,7 +414,7 @@
       "open_issues": 6,
       "owner": "0x4D31",
       "repo": "awesome-oscp",
-      "stars": 3526,
+      "stars": 3525,
       "topics": [
         "awesome-list",
         "offensive-security",
