@@ -203,7 +203,7 @@
                     "open_issues": 41,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 82982,
+                    "stars": 83001,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -242,7 +242,7 @@
                     "open_issues": 1,
                     "owner": "S1ckB0y1337",
                     "repo": "Active-Directory-Exploitation-Cheat-Sheet",
-                    "stars": 6821,
+                    "stars": 6823,
                     "topics": [
                       "active-directory",
                       "active-directory-cheatsheet",
@@ -297,10 +297,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 185,
+            "open_issues": 187,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27856,
+            "stars": 27866,
             "topics": [
               "awesome",
               "awesome-list"
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:52:17.337Z",
+    "last_updated": "2026-11-28T01:35:13.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OSCP resources",
